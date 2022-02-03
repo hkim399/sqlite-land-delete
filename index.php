@@ -1,4 +1,5 @@
 <?php
+    echo "<h1> hello world!!! github and azure </h1>";
     # step 1
     # creates a new databsae named school.db
     $db = new SQLite3('school.db');
